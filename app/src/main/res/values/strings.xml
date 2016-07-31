@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">myMovies</string>
+    <string name="action_settings">Settings</string>
+    <!-- Array for the spinner options-->
+    <string-array name="spinner_option_array">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+        <item>Favorites</item>
+    </string-array>
+
+      <string name="title_activity_details">Movie Details</string>
+    <string name="legend_of_tarzan_plot">Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.</string>
+    <string name="sortby_condensed">Sort By</string>
+    <string name="sortby_normal_title">Sort By</string>
+    <string name="title_activity_play_trailers">PlayTrailers</string>
+    <string name="title_movie_name">The Legend of Tarzan</string>
+    <string name="btn_mark_as_favorite">Mark AS FAVORITE</string>
+    <string name="reviews_title">Reviews</string>
+    <string name="trailers_title_text">Trailers</string>
+    <string name="overview_text">Overview</string>
+</resources>
